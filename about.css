@@ -120,7 +120,8 @@ a:hover{
     margin-right: 0.8rem;
     margin-left: 1.5rem;
     background-color: #35424a;
-    padding-left: 00.8rem;
+    padding-left: 0.8rem;
+    padding-bottom: 0.5rem;
 }
 .content13 h3{
     padding-top: 0.8rem;
@@ -128,6 +129,7 @@ a:hover{
 .content13 p{
     background-color: #35424a;
     color: white;
+    font-size: 0.8rem;
 }
 .content14{
     grid-column: 1/3;
